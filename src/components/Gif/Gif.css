@@ -1,0 +1,23 @@
+.Gif__container {
+  align-items: center;
+  border: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 1rem;
+  margin: 0.5rem;
+  max-height: 20rem;
+  max-width: 15rem;
+  min-width: 10rem;
+}
+
+.Gif__img {
+  height: 15rem;
+  object-fit: scale-down;
+  width: 15rem;
+}
+
+.Gif_name {
+  padding: 0.3rem;
+  text-align: center;
+}

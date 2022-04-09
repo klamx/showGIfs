@@ -1,0 +1,9 @@
+.Gifs__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  margin-top: 2rem;
+  width: 90%;
+}

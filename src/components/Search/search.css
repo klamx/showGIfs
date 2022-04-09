@@ -1,0 +1,10 @@
+.Search__container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.Search__input {
+  width: 70%;
+}
